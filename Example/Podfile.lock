@@ -1,0 +1,16 @@
+PODS:
+  - CPPersonInfoCatogeryKit (0.1.0)
+
+DEPENDENCIES:
+  - CPPersonInfoCatogeryKit (from `../`)
+
+EXTERNAL SOURCES:
+  CPPersonInfoCatogeryKit:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  CPPersonInfoCatogeryKit: ab4fd6796168b99d7087a65b8617c27211e7bd09
+
+PODFILE CHECKSUM: 1e5762a5daf29bb08a372e78498e569f0a41d22f
+
+COCOAPODS: 1.11.2

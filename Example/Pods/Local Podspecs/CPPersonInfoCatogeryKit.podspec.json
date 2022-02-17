@@ -1,0 +1,27 @@
+{
+  "name": "CPPersonInfoCatogeryKit",
+  "version": "0.1.0",
+  "summary": "A short description of CPPersonInfoCatogeryKit.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/AppHock/CPPersonInfoCatogeryKit.git",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "Andy_Reckless@outlook.com": "Andy_Reckless@outlook.com"
+  },
+  "source": {
+    "git": "https://github.com/AppHock/CPPersonInfoCatogeryKit.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "9.0"
+  },
+  "source_files": "CPPersonInfoCatogeryKit/Classes/**/*",
+  "dependencies": {
+    "CTMediator": [
+
+    ]
+  }
+}

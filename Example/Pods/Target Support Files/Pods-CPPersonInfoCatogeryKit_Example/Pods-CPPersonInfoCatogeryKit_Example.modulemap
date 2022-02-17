@@ -1,0 +1,6 @@
+framework module Pods_CPPersonInfoCatogeryKit_Example {
+  umbrella header "Pods-CPPersonInfoCatogeryKit_Example-umbrella.h"
+
+  export *
+  module * { export * }
+}

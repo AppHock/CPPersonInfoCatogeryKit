@@ -1,0 +1,6 @@
+framework module CPPersonInfoCatogeryKit {
+  umbrella header "CPPersonInfoCatogeryKit-umbrella.h"
+
+  export *
+  module * { export * }
+}
